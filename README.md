@@ -4,6 +4,9 @@ A collection of useful tools, links and Articles for myself
 ## C/C++
 - [Interfacing with Lua](http://lua-users.org/wiki/SimpleLuaApiExample): An example of using embedded lua in c
 
+## Node.js
+- [Node-QT](https://github.com/arturadib/node-qt): node js c++ qt bindings for building desktop apps
+
 ## Git
 - [Git Legit](http://www.git-legit.org/): Git alias to maybe save writing my own
 
