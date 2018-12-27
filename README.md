@@ -17,7 +17,7 @@ If you have something cool to add just submit a PR and feel free to add
 
 ## Tools
 - [Notable](https://github.com/fabiospampinato/notable): A markdown based note taking app
-
+- [Haxor News](https://github.com/donnemartin/haxor-news): A cli to browse hacker news
 
 ## Articles and Tutorials
 - [Python realworld apps](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-1-b040b2b7faad): A 3 part tutorial on creating real world python apps
