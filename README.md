@@ -1,5 +1,7 @@
 # awesome-resources
-A collection of useful tools, links and Articles for myself 
+A collection of useful tools, links and Articles for myself.  
+
+If you have something cool to add just submit a PR and feel free to add
 
 ## Python
 - [Kite](https://kite.com/blog/vscode): Smarter code completion for Python
