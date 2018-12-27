@@ -1,6 +1,9 @@
 # awesome-resources
 A collection of useful tools, links and Articles for myself 
 
+## Python
+- [Kite](https://kite.com/blog/vscode): Smarter code completion for Python
+
 ## C/C++
 - [Interfacing with Lua](http://lua-users.org/wiki/SimpleLuaApiExample): An example of using embedded lua in c
 
