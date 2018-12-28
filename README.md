@@ -15,6 +15,9 @@ If you have something cool to add just submit a PR and feel free to add
 ## Git
 - [Git Legit](http://www.git-legit.org/): Git alias to maybe save writing my own
 
+## Linux 
+- [SSH Examples and Tips](https://hackertarget.com/ssh-examples-tunnels/): Useful ssh tips and examples.
+
 ## Tools
 - [Notable](https://github.com/fabiospampinato/notable): A markdown based note taking app
 - [Haxor News](https://github.com/donnemartin/haxor-news): A cli to browse hacker news
