@@ -31,6 +31,7 @@ If you have something cool to add just submit a PR and feel free to add.
 - [Haxor News](https://github.com/donnemartin/haxor-news): A cli to browse hacker news.
 - [VS Code Extensions for Happier JavaScript Coding](https://hackernoon.com/vs-code-extensions-for-happier-javascript-coding-e258f72dd9c1)
 - [Mail Trap](https://mailtrap.io/): Fake smtp testing server
+- [OWASP](https://www.owasp.org/index.php/Main_Page): Pentesting browser
 
 ## Interview Preparation
 
