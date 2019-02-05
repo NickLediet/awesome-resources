@@ -25,6 +25,9 @@ If you have something cool to add just submit a PR and feel free to add.
 
 - [SSH Examples and Tips](https://hackertarget.com/ssh-examples-tunnels/): Useful ssh tips and examples.
 
+## Laravel
+- [Lighthouse GraphQL](https://lighthouse-php.netlify.com/master/getting-started/tutorial.html#the-models): Graphql layer for laravel.  Useful tutorial
+
 ## Tools
 
 - [Notable](https://github.com/fabiospampinato/notable): A markdown-based note taking app.
