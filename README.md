@@ -27,6 +27,7 @@ If you have something cool to add just submit a PR and feel free to add.
 ## Linux
 
 - [SSH Examples and Tips](https://hackertarget.com/ssh-examples-tunnels/): Useful ssh tips and examples.
+- [xrandr](https://wiki.archlinux.org/index.php/Xrandr): Cli for controlling displays
 
 ## Laravel
 - [Lighthouse GraphQL](https://lighthouse-php.netlify.com/master/getting-started/tutorial.html#the-models): Graphql layer for laravel.  Useful tutorial
