@@ -18,6 +18,9 @@ If you have something cool to add just submit a PR and feel free to add.
 - [TS.ED](http://tsed.io/#/getting-started): Decorators for Express in TypeScript.
 - [ntl](https://www.npmjs.com/package/ntl): Interactive cli for selecting a npm script
 
+## JS WebAPIs
+- [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API): Observer for checking when elements intersect with eachother.  Useful for lazy loading
+
 ## React
 - [Microsoft Bootcamp](https://github.com/Microsoft/frontend-bootcamp): Microsoft's react bootcamp
 
